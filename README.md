@@ -23,4 +23,5 @@ This web application aims to eliminate middlemen, ensure fair pricing, and make 
 
 1. **Clone the Repository**
    git clone https://github.com/ParinitaMalisetty/E-Farming-Portal.git
-2.
+2. **For Execution**
+   Run the index.html file
